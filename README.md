@@ -1,2 +1,2 @@
 # PW-Skills-Learning-Platform
-An educational platform offering courses, career resources, and hands-on learning.
+A web page created with Tailwind CSS, showcasing courses and career resources.
